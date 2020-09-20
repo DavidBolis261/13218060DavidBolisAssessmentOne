@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 2c5ae5dcb4e234af694977762c8e616d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6976346162193684455
+    second: PacMan copy_0
+  - first:
+      213: -5073525486711846874
+    second: PacMan copy_1
+  - first:
+      213: -8774154612192215227
+    second: PacMan copy_2
+  - first:
+      213: 4178849436880411659
+    second: PacMan copy_3
+  - first:
+      213: -9150320651846666037
+    second: PacMan copy_4
+  - first:
+      213: 4792425890181189943
+    second: PacMan copy_5
+  - first:
+      213: -4322096058539342564
+    second: PacMan copy_6
+  - first:
+      213: -4340056668029356797
+    second: PacMan copy_7
+  - first:
+      213: 8740327098730111325
+    second: PacMan copy_8
+  - first:
+      213: 8684708384767712212
+    second: PacMan copy_9
+  - first:
+      213: -1180046547101002174
+    second: PacMan copy_10
+  - first:
+      213: -928757928992126768
+    second: PacMan copy_11
+  - first:
+      213: 3831146733327165541
+    second: PacMan copy_12
+  - first:
+      213: 6274975714911571071
+    second: PacMan copy_13
+  - first:
+      213: -5258648563841565006
+    second: PacMan copy_14
+  - first:
+      213: -8623776018498254602
+    second: PacMan copy_15
+  - first:
+      213: 5971517278810117813
+    second: PacMan copy_16
+  - first:
+      213: 2954117818168225738
+    second: PacMan copy_17
+  - first:
+      213: -711516218572873132
+    second: PacMan copy_18
+  - first:
+      213: -7049074566281094182
+    second: PacMan copy_19
+  - first:
+      213: 8975553960459174092
+    second: PacMan copy_20
+  - first:
+      213: -5858773114452293072
+    second: PacMan copy_21
+  - first:
+      213: 4689904312820530862
+    second: PacMan copy_22
+  - first:
+      213: -8560342953189871381
+    second: PacMan copy_23
+  - first:
+      213: -1255325251743747444
+    second: PacMan copy_24
+  - first:
+      213: 4944925818413312369
+    second: PacMan copy_25
+  - first:
+      213: -3947516767085216397
+    second: PacMan copy_26
+  - first:
+      213: 313877745162401141
+    second: PacMan copy_27
+  - first:
+      213: -111265671152940052
+    second: PacMan copy_28
+  - first:
+      213: 8915024163538375629
+    second: PacMan copy_29
+  - first:
+      213: -8020805130511721606
+    second: PacMan copy_30
+  - first:
+      213: -2637410612776940536
+    second: PacMan copy_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PacMan copy_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182944b02a0f2f90800000000000000
+      internalID: -6976346162193684455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62846a553773799b0800000000000000
+      internalID: -5073525486711846874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7def1ed0fb3680800000000000000
+      internalID: -8774154612192215227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c191f1c614ef930800000000000000
+      internalID: 4178849436880411659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 40
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc832cdf8d7830180800000000000000
+      internalID: -9150320651846666037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73192aca4fd128240800000000000000
+      internalID: 4792425890181189943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1585a1c884d404c0800000000000000
+      internalID: -4322096058539342564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacMan copy_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057b0d747505c3c0800000000000000
+      internalID: -4340056668029356797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
