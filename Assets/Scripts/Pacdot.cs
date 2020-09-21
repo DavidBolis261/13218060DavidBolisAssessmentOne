@@ -7,11 +7,11 @@ public class Pacdot : MonoBehaviour
    
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Player")
-        {
+    //     if (collision.tag == "Player")
+    //     {
            
-            Destroy(gameObject);
+    //         Destroy(gameObject);
            
-        }
+    //     }
     }
 }
