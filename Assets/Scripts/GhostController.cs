@@ -13,7 +13,7 @@ public class GhostController : MonoBehaviour
     {
         DeadGhosts = GameObject.FindGameObjectsWithTag("DeadGhost");
         AliveGhosts = GameObject.FindGameObjectsWithTag("AliveGhost");
-        StartCoroutine(ActivationRoutine());
+        //StartCoroutine(ActivationRoutine());
 
         
     }

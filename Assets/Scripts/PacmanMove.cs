@@ -14,16 +14,14 @@ public class PacmanMove : MonoBehaviour
 
     void Start()
     {
-        right();
-       
-        destination = transform.position;
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // if (collision.tag == "Pallet")
-        // {
-        //     PacManEating.Play();   
-        // }
+        if (collision.tag == "Pallet")
+        {
+            //PacManEating.Play();
+        }
     }
 
     void right(){
